@@ -1,2 +1,2 @@
 console.log("witaj");
-console.log("witaj w moim gangu");
+console.log("witaj w moim swiecie");
